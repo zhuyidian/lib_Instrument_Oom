@@ -1,0 +1,16 @@
+# Oom
+/Oom/.gradle/
+/Oom/.idea/
+/Oom/.svn/
+/Oom/java_pid5600.hprof   
+/Oom/java_pid8156.hprof 
+/Oom/*.hprof 
+/Oom/*.iml
+
+#sample
+/Oom/sample/build/
+/Oom/sample/*.iml
+
+#oom
+/Oom/oom/build/
+/Oom/oom/*.iml
